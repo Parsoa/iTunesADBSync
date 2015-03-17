@@ -1,6 +1,5 @@
 #!/usr/bin
 
-import eyed3
 import os
 import sys
 from pyItunes import *
